@@ -1,0 +1,8 @@
+This project shows how a particle filter can recover from localization failure whenever
+the robot is "kidnapped". This kidnapping can involve being physically moved by a human, 
+or can be applied in the context of underwater robots where ocean currents or other animals
+may push the robot in an unwanted direction.
+
+I cover in detail how everything works in my blog post, http://blog.cs4u.us/2014/08/surviving-kidnapping-particle-filter.html,
+
+
